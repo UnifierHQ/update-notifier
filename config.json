@@ -13,6 +13,6 @@
     "UnifierHQ/unifier-revolt": -1,
     "UnifierHQ/unifier-guilded": -1
   },
-  "notify_prerelease": True,
+  "notify_prerelease": true,
   "prerelease_role": -1
 }
