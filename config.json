@@ -1,0 +1,18 @@
+{
+  "check_url": "https://github.com/UnifierHQ/unifier-version",
+  "main_repo": "UnifierHQ/unifier"
+  "product_mapping": {
+    "UnifierHQ/unifier": "Unifier",
+    "UnifierHQ/unifier-micro": "Unifier Micro",
+    "UnifierHQ/unifier-revolt": "Revolt Support",
+    "UnifierHQ/unifier-guilded": "Guilded Support"
+  },
+  "roles_mapping": {
+    "UnifierHQ/unifier": -1,
+    "UnifierHQ/unifier-micro": -1,
+    "UnifierHQ/unifier-revolt": -1,
+    "UnifierHQ/unifier-guilded": -1
+  },
+  "notify_prerelease": True,
+  "prerelease_role": -1
+}
